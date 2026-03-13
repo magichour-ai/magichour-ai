@@ -1,4 +1,4 @@
-# MagicHour AI Desktop
+# 🪄 MagicHour AI Desktop
 
 <div align="center">
   <a href="../../releases/latest">
