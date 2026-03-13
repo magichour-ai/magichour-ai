@@ -95,6 +95,10 @@ Absolutely. The Desktop version allows you to export generated results or manual
 **6. Are projects synced between the browser and the Desktop version?**
 Yes, your project library is fully synchronized. You can start a draft on your phone in the browser while commuting, and finish the detailed rendering and upscaling at home on your PC.
 
+## 🛡️ UI/UX Bug Bounty Program
+
+Help us refine the **Magic Hour AI Desktop** experience! We are rewarding the **top 30 hunters** who identify significant UI/UX flaws, visual glitches, or workflow bottlenecks. Reports are evaluated based on impact, with rewards ranging from **$100 to $1,000** per finding, payable via **USDT** or **PayPal**. To participate, submit a detailed report (including screenshots and reproduction steps) to `bounty@magichour.ai` or open a GitHub issue with the `[Bounty]` prefix. Join the hunt and help us build the gold standard for AI video editing!
+
 ## 📄 License
 
 This project is licensed under the Apache License, Version 2.0 (the [LICENSE](../../LICENSE));
