@@ -1,5 +1,11 @@
 # MagicHour AI Desktop
 
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="Magic Hour AI Desktop is the ultimate AI studio for content generation and editing, brought straight to your PC." src="assets/magichour-releases.png" />
+  </a>
+</div>
+
 ## 💡Why Do You Need the Desktop App?
 
 Stop wasting hours rendering in the browser, putting up with cloud compression, and struggling with a clunky interface. **Magic Hour AI Desktop** is the ultimate AI studio for content generation and editing, brought straight to your PC. We took your favorite browser features and supercharged them with professional desktop tools.
